@@ -1,0 +1,114 @@
+.container {
+    margin: 2.5rem;
+    background-color: #EEF5FF;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 20px;
+    padding-bottom: 5px;
+}
+
+.page-title {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 700;
+    font-family: sans-serif;
+    background-color: #176B87;
+    color: white;
+    padding: 1.25rem;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+
+}
+
+.driver-images-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.25rem;
+}
+
+.driver-image-cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.driver-image {
+    height: 9rem;
+    width: 12rem;
+}
+
+.driver-text {
+    font-weight: 700;
+}
+
+.table-container {
+    width: 500px;
+    background-color: white;
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gray-row {
+    background-color: #B4D4FF;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+.white-row {
+    background-color: #EEF5FF;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    font-weight: 600;
+
+}
+
+.cards-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin: 2.5rem;
+    border-radius: 0.5rem;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    border-radius: 0.5rem;
+    padding: 1.25rem;   
+}
+
+
+.card-img {
+    height: 3.5rem;
+    width: 3.5rem;
+}
+
+.card-text {
+    font-weight: 500;
+    font-size: 0.9rem;
+    font-family: sans-serif;
+}
+
+.card-texts {
+    font-weight: 700;
+    font-size: 1.25rem;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
